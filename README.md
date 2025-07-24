@@ -1,17 +1,11 @@
 <h1 align="center">Hi, I'm Saran 👋</h1>
 <h3 align="center">"Building reliable systems with clean logic and purpose-driven code."</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saranv29&label=Profile%20views&color=0e75b6&style=flat" alt="saranv29" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 
-I’m a full stack developer who enjoys solving real-world problems through code.  
-Focused on building robust systems with simple architecture and clear workflows.  
-Driven by curiosity, consistency, and clean development practices.
+I’m a full stack developer who enjoys solving real-world problems through code.  Focused on building robust systems with simple architecture and clear workflows.  Driven by curiosity, consistency, and clean development practices.
 
 ---
 
